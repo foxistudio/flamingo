@@ -1,0 +1,14 @@
+User-Agent: *
+Disallow: /js
+Disallow: /scripts
+Disallow: /editor
+Disallow: /doc
+Disallow: /*.swf
+Disallow: /*.flv
+Disallow: /*.pdf
+Disallow: /*.doc
+Disallow: /*.exe
+Disallow: /*.htm
+Disallow: /*.zip
+Allow: /
+Host: xn----7sbbam3atjkdi1b1ad.xn--p1ai
